@@ -1,0 +1,5 @@
+/launch4j/**
+launch4j.log
+product.ico
+dist/
+build/
